@@ -3,3 +3,6 @@ Purpose: The purpose of this chatbot is to evaluate patients' hospital experienc
 
 
 For this project to work, we need to upload the proper CSV File to google drive in the appropriate name and directory ('/content/drive/My Drive/Colab Notebooks/HCAHPS-Hospital.csv')
+
+Link to database used:
+https://drive.google.com/file/d/1iuHTgXUZDl4RAtPjxyfZqCe9DsKOKHuo/view?usp=sharing
